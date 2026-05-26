@@ -1,0 +1,12 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# IPYNB files
+.ipynb_checkpoints/
+.virtualenv/
+
+# OS files
+.DS_Store
+Thumbs.db
