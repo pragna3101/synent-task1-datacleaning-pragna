@@ -45,19 +45,11 @@ Our data cleaning pipeline consists of the following structured engineering step
 ---
 
 ## 🎥 Video Walkthrough
-A complete video demonstration of the project structure, code walk-through, and results in Visual Studio Code is included directly in this repository:
-* **Repository Video File**: [task1_walkthrough.mp4](task1_walkthrough.mp4?raw=true)
+A complete video demonstration of the project structure, code walkthrough, and analytical results in Visual Studio Code is embedded directly below. You can **watch and play it directly on GitHub**!
 
-> [!NOTE]
-> **Why does GitHub show *"Sorry about that, but we can't show files that are this big"*?**
-> GitHub does not support instant streaming/previewing of large media files (usually >10MB) directly inside its file-explorer browser window. **This is standard GitHub behavior and is completely normal.**
-> 
-> **How to watch the video:**
-> 1. **Direct Download (Recommended)**: Click on the **[task1_walkthrough.mp4](task1_walkthrough.mp4?raw=true)** link above, then click the **"Download"** or **"View Raw"** button in GitHub to download the video and watch it locally on your computer.
-> 2. **Instant Streaming (Optional)**: If you would like to watch it directly in your browser, you can upload the video to Google Drive or YouTube (as Unlisted) and paste your link below:
->    * 🔗 **Google Drive / YouTube Link**: [Watch Walkthrough Video (Streaming Link)](YOUR_GOOGLE_DRIVE_OR_YOUTUBE_LINK_HERE)
-
----
+<video src="task1_walkthrough.mp4" width="100%" controls poster="images/distribution_plots.png">
+  Your browser does not support the video tag. You can also <a href="task1_walkthrough.mp4?raw=true">download the video file directly</a> to watch it.
+</video>
 
 ## 💻 Tech Stack
 * **Language**: Python
